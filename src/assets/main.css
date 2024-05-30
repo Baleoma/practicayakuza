@@ -1,0 +1,19 @@
+*{
+  margin: 0 auto;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: LaborUnion;
+  src: url("fonts/LaborUnion-Regular.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: UKIJS;
+  src: url("fonts/UKIJSls.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}

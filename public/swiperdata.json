@@ -1,0 +1,36 @@
+[
+    {
+        "id": 0,
+        "video_name": "E3 2016",
+        "refvideo": "https://www.youtube.com/embed/TNF5olx8Pi4?si=oTY8gcJK1kJqg5sf",
+        "refimg": "/e3-2016.jpg"
+    },
+  
+    {
+        "id": 1,
+        "video_name": "Launch Trailer",
+        "refvideo": "https://www.youtube.com/embed/aMfpQRoWGbE?si=6TWVIBaB2VNsYJyb",
+        "refimg": "/launchtrailer.jpg"
+    },
+  
+    {
+        "id": 2,
+        "video_name": "Legends Trailer",
+        "refvideo": "https://www.youtube.com/embed/gFwBgCA0J3o?si=jPDSfcDiwFO9vvOl",
+        "refimg": "/LegrndsTrailer.jpg"
+    },
+      
+    {
+        "id": 3,
+        "video_name": "Kiru Trailer",
+        "refvideo": "https://www.youtube.com/embed/qGYQVblzl_Y?si=jyJaA7ea4ukY_JKf",
+        "refimg": "/KiruTrailer.jpg"
+    },
+  
+    {
+        "id": 4,
+        "video_name": "Majima Trailer",
+        "refvideo": "https://www.youtube.com/embed/T1G7WCTy_g8?si=d5LLlF2HsvRrhz1p",
+        "refimg": "/MajimaTrailer.jpg"
+    }
+]
